@@ -1,0 +1,13 @@
+apt-get install docker
+apt-get install docker.io
+
+sudo docker search debian
+
+sudo docker pull 32 bit/debian
+
+sudo docker run -it 32bit/debian /bin/bash
+
+
+bases de datos
+
+apt-get install libsqlite3-dev sqlite3

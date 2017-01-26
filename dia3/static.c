@@ -14,4 +14,6 @@ int main()
 			break;
 		printf("%c\n",c[i]);
 	}
+//char *ptr = "hola";
+
 }
